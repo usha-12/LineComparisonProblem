@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38eac789-7af5-4fba-ae02-c2be06e9eaf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/linecomparison/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/linecomparison/Points.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/linecomparison/LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/linecomparison/LineComparison.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
